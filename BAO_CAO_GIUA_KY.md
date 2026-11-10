@@ -14,7 +14,7 @@
 | Mã sinh viên | `[Điền mã sinh viên]` |
 | Lớp | `[Điền lớp]` |
 | Giảng viên hướng dẫn | `[Điền tên giảng viên]` |
-| Link GitHub source code | `[https://github.com/<username>/flutter_midterm]` |
+| Link GitHub source code | https://github.com/thancau04/flutter_midterm |
 | Link video demo | `[https://youtu.be/<video-id>]` hoặc `[Link Google Drive]` |
 | File CSDL nộp kèm | `users.json` |
 
@@ -1367,6 +1367,6 @@ flowchart LR
 |---|---|---|
 | 1 | Báo cáo chi tiết | `BAO_CAO_GIUA_KY.md` (xuất sang `.docx` / `.pdf`) |
 | 2 | File cơ sở dữ liệu | `users.json` |
-| 3 | Source code GitHub | `[https://github.com/<username>/flutter_midterm]` |
+| 3 | Source code GitHub | https://github.com/thancau04/flutter_midterm |
 | 4 | Video demo | `[https://youtu.be/<video-id>]` |
 
