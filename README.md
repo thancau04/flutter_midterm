@@ -10,7 +10,7 @@ Bài thi Giữa kỳ môn **Lập trình đa nền tảng** – Flutter (Web + A
 | Source code | https://github.com/thancau04/flutter_midterm |
 | Video demo | https://drive.google.com/file/d/1V5DMrV2_EJc9Vy96Jeypv4UCwUIbS-M6/view?usp=sharing |
 | File CSDL `users.json` | https://drive.google.com/file/d/1Uff9WJr68g38CV_UMdoNVJY34jYXTwZa/view?usp=sharing |
-| Báo cáo chi tiết | `[Dán link Google Drive báo cáo tại đây]` |
+| Báo cáo chi tiết | https://docs.google.com/document/d/1zLgM2cRsjBW36oXZ_mtdQBHsKWcbu_4F/edit?usp=sharing&ouid=116304917615370135195&rtpof=true&sd=true |
 
 ## Môi trường phát triển
 | Thành phần | Phiên bản / Thông tin |
