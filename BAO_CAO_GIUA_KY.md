@@ -10,24 +10,22 @@
 
 | Thông tin | Nội dung |
 |---|---|
-| Họ và tên | `[Điền họ và tên]` |
-| Mã sinh viên | `[Điền mã sinh viên]` |
-| Lớp | `[Điền lớp]` |
-| Giảng viên hướng dẫn | `[Điền tên giảng viên]` |
+| Họ và tên | Đặng Thần Cầu |
+| Mã sinh viên | 23IT025 |
 | Link GitHub source code | https://github.com/thancau04/flutter_midterm |
-| Link video demo | `[https://youtu.be/<video-id>]` hoặc `[Link Google Drive]` |
-| File CSDL nộp kèm | `users.json` |
+| Link video demo | https://drive.google.com/file/d/1V5DMrV2_EJc9Vy96Jeypv4UCwUIbS-M6/view?usp=sharing |
+| File CSDL nộp kèm (`users.json`) | https://drive.google.com/file/d/1Uff9WJr68g38CV_UMdoNVJY34jYXTwZa/view?usp=sharing |
 
 ### 1.2. Môi trường phát triển
 
 | Thành phần | Phiên bản / Thông tin |
 |---|---|
-| Flutter SDK / Dart SDK | Dart `^3.13.7` |
-| IDE | Visual Studio Code / Antigravity |
-| Nền tảng Web | Trình duyệt Brave (biến môi trường `CHROME_EXECUTABLE` trỏ tới `brave.exe`) |
+| Flutter SDK / Dart SDK | Dart v3.13.7 |
+| IDE | Visual Studio Code |
+| Nền tảng Web | Trình duyệt Brave |
 | Nền tảng Mobile | Điện thoại Android thật (device id: `2510DRK44C`) |
-| Cơ sở dữ liệu | Firebase Cloud Firestore — Project ID: `midterm-app-f2c16` |
-| Thư viện chính | `firebase_core ^5.1.0`, `cloud_firestore ^7.1.0`, `image_picker ^1.2.4` |
+| Cơ sở dữ liệu | Firebase Cloud Firestore (Project ID: `midterm-app-f2c16`) |
+| Thư viện chính | `firebase_core` v5.1.0, `cloud_firestore` v7.1.0, `image_picker` v1.2.4 |
 
 ### 1.3. Tóm tắt kết quả đạt được (theo thang điểm đề bài)
 
@@ -1366,7 +1364,7 @@ flowchart LR
 | STT | Sản phẩm | Vị trí / Link |
 |---|---|---|
 | 1 | Báo cáo chi tiết | `BAO_CAO_GIUA_KY.md` (xuất sang `.docx` / `.pdf`) |
-| 2 | File cơ sở dữ liệu | `users.json` |
+| 2 | File cơ sở dữ liệu `users.json` | https://drive.google.com/file/d/1Uff9WJr68g38CV_UMdoNVJY34jYXTwZa/view?usp=sharing |
 | 3 | Source code GitHub | https://github.com/thancau04/flutter_midterm |
-| 4 | Video demo | `[https://youtu.be/<video-id>]` |
+| 4 | Video demo | https://drive.google.com/file/d/1V5DMrV2_EJc9Vy96Jeypv4UCwUIbS-M6/view?usp=sharing |
 

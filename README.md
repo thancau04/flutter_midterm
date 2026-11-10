@@ -2,6 +2,25 @@
 
 Bài thi Giữa kỳ môn **Lập trình đa nền tảng** – Flutter (Web + Android).
 
+## Thông tin sinh viên
+| Thông tin | Nội dung |
+|---|---|
+| Họ và tên | Đặng Thần Cầu |
+| Mã sinh viên | 23IT025 |
+| Source code | https://github.com/thancau04/flutter_midterm |
+| Video demo | https://drive.google.com/file/d/1V5DMrV2_EJc9Vy96Jeypv4UCwUIbS-M6/view?usp=sharing |
+| File CSDL `users.json` | https://drive.google.com/file/d/1Uff9WJr68g38CV_UMdoNVJY34jYXTwZa/view?usp=sharing |
+
+## Môi trường phát triển
+| Thành phần | Phiên bản / Thông tin |
+|---|---|
+| Flutter SDK / Dart SDK | Dart v3.13.7 |
+| IDE | Visual Studio Code |
+| Nền tảng Web | Trình duyệt Brave |
+| Nền tảng Mobile | Điện thoại Android thật (device id: `2510DRK44C`) |
+| Cơ sở dữ liệu | Firebase Cloud Firestore (Project ID: `midterm-app-f2c16`) |
+| Thư viện chính | `firebase_core` v5.1.0, `cloud_firestore` v7.1.0, `image_picker` v1.2.4 |
+
 ## Chức năng
 - Đăng nhập Admin (truy vấn `email` + `matkhau` trên Firestore), Đăng xuất
 - Thêm / Hiển thị realtime / Sửa / Xóa người dùng
