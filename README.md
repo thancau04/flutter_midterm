@@ -10,6 +10,7 @@ Bài thi Giữa kỳ môn **Lập trình đa nền tảng** – Flutter (Web + A
 | Source code | https://github.com/thancau04/flutter_midterm |
 | Video demo | https://drive.google.com/file/d/1V5DMrV2_EJc9Vy96Jeypv4UCwUIbS-M6/view?usp=sharing |
 | File CSDL `users.json` | https://drive.google.com/file/d/1Uff9WJr68g38CV_UMdoNVJY34jYXTwZa/view?usp=sharing |
+| Báo cáo chi tiết | `[Dán link Google Drive báo cáo tại đây]` |
 
 ## Môi trường phát triển
 | Thành phần | Phiên bản / Thông tin |
@@ -50,5 +51,3 @@ flutter run -d <android-id>  # Android
 ```
 
 Tài khoản mặc định khi CSDL trống: `admin@gmail.com` / `123456`.
-
-Báo cáo chi tiết: [BAO_CAO_GIUA_KY.md](BAO_CAO_GIUA_KY.md)

@@ -46,3 +46,6 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# Báo cáo n?p qua Google Drive
+BAO_CAO_GIUA_KY.md
